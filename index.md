@@ -24,10 +24,11 @@
 
 ## Competitions
 
-• [IROS2019 Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
+• [2019 IROS Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
 
-• [IROS2020 Service Robot Track](https://rpal.cse.usf.edu/competition_iros2020/)
+• [2020 IROS Service Robot Track](https://rpal.cse.usf.edu/competition_iros2020/)
 
+• [2020 Word Robot Contest](http://2018.worldrobotconference.com/html/jiqirendasai/chengji/2020/2020/1214/1577.html/)  
 
 ## Publications
 
