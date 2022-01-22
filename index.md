@@ -32,6 +32,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nameCody/quyangyang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1] [UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement](https://ieeexplore.ieee.org/abstract/document/9561051) 
+[2] [LEUGAN: Low-Light Image Enhancement by Unsupervised Generative Attentional Networks](https://arxiv.org/abs/2012.13322)
+[3] [Low Illumination Enhancement for Object Detection in Self-Driving](https://ieeexplore.ieee.org/abstract/document/8961471)
+[4] [Low Light Enhancement by Unsupervised Network*](https://ieeexplore.ieee.org/abstract/document/9303267)
+[5] [Visual SLAM Based on Geometric Cluster Matching](https://ieeexplore.ieee.org/abstract/document/9044135)
+[6] [Depth Map Inpainting Using a Fully Convolutional Network] (https://ieeexplore.ieee.org/abstract/document/8961820)
