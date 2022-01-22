@@ -44,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [5] [Visual SLAM Based on Geometric Cluster Matching](https://ieeexplore.ieee.org/abstract/document/9044135)
 
-[6] [Depth Map Inpainting Using a Fully Convolutional Network] (https://ieeexplore.ieee.org/abstract/document/8961820)
+[6] [Depth Map Inpainting Using a Fully Convolutional Network](https://ieeexplore.ieee.org/abstract/document/8961820)
