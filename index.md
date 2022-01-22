@@ -28,9 +28,11 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Competitions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nameCody/quyangyang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[1] [IROS2019 Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
+
+[2] [Logistics Track]
 
 ### Publications
 
