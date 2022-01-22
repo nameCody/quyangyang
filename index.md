@@ -31,9 +31,9 @@
 
 ## Publications
 
-[1] **Yangyang Qu**, Kai Chen, Chao Liu and Yongsheng Ou, "[UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement](https://ieeexplore.ieee.org/abstract/document/9561051)," in 2021 IEEE International Conference on Robotics and Automation (ICRA), 4318-4324.   
-[2] **Yangyang Qu**, Yongsheng Ou, and Chao Liu, "[LEUGAN: Low-Light Image Enhancement by Unsupervised Generative Attentional Networks](https://arxiv.org/abs/2012.13322)
-," in arXiv:2012.13322.   
+[1] "[UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement](https://ieeexplore.ieee.org/abstract/document/9561051)," in 2021 IEEE International Conference on Robotics and Automation (ICRA), 4318-4324， **Yangyang Qu**, Kai Chen, Chao Liu and Yongsheng Ou.   
+[2]  "[LEUGAN: Low-Light Image Enhancement by Unsupervised Generative Attentional Networks](https://arxiv.org/abs/2012.13322)
+," in arXiv:2012.13322， **Yangyang Qu**, Yongsheng Ou, and Chao Liu,.   
 [3] **Yangyang Qu**, Yongsheng Ou, and Rong Xiong, "[Low Light Enhancement by Unsupervised Network](https://ieeexplore.ieee.org/abstract/document/9303267),"  in 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR), 404-409.   
 [4] **Yangyang Qu**, Yongsheng Ou, and Rong Xiong, "[Low Illumination Enhancement for Object Detection in Self-Driving](https://ieeexplore.ieee.org/abstract/document/8961471)," in 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), 1738-1743.  
 [5] Rong. Xiong, Guodong. Liu, **Yangyang. Qu** and Yongsheng. Ou, "[Depth Map Inpainting Using a Fully Convolutional Network](https://ieeexplore.ieee.org/abstract/document/8961820) ," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 1699-1704.  
