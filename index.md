@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Experience
 
 ### China University of Petroleum    
-• 014.09 - 2018.06  
+• 2014.09 - 2018.06  
 • B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management.   
 • Third class scholarship, Outstanding student leader.    
 
