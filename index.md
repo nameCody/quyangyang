@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nameCody/quyangyang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Summary  
+• Research Directions Computer vision and deep learning    
+• programming language： python and java  
+• E-mail: chujian9517@163.com or quyangyang@google.com  
+• Google Scholar: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=JzRU1eEAAAAJ)  
+•Github: [Github](https://github.com/nameCody)
 ## Experience
 
 ### China University of Petroleum    
