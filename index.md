@@ -7,19 +7,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Experience
 
 ### China University of Petroleum    
-• 014.09 - 2018.06
-• B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management. 
-• Third class scholarship, Outstanding student leader
+• 014.09 - 2018.06  
+• B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management.   
+• Third class scholarship, Outstanding student leader.    
 
-### University of Chinese Academy of Sciences 
-• 2018.09 - 2021.06 
-• M.S. in Computer Science and Engineering. 
-• President of Student Union, Excellent Communist Youth League of Shenzhen.
+### University of Chinese Academy of Sciences   
+• 2018.09 - 2021.06     
+• M.S. in Computer Science and Engineering.   
+• President of Student Union, Excellent Communist Youth League of Shenzhen.  
 
 ### HUAWEI 
-• 2021.08 - now
-• Engineer in Huawei Cloud  
-• Develop tools to automate the compilation, packaging, deployment, and release of software development.
+• 2021.08 - now  
+• Engineer in Huawei Cloud    
+• Develop tools to automate the compilation, packaging, deployment, and release of software development.  
 
 
 ## Competitions
