@@ -4,37 +4,29 @@ You can use the [editor on GitHub](https://github.com/nameCody/quyangyang/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### China University of Petroleum     2014.09 - 2018.06
+• B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management.
+• Third class scholarship, Outstanding student leader
 
-```markdown
-Syntax highlighted code block
+### University of Chinese Academy of Sciences 2018.09 - 2021.06
+• M.S. in Computer Science and Engineering.
+• President of Student Union, Excellent Communist Youth League of Shenzhen.
 
-# Header 1
-## Header 2
-### Header 3
+### HUAWEI 2021.08 - now
+• Engineer in Huawei Cloud
+• Develop tools to automate the compilation, packaging, deployment, and release of software development.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Competitions
 
-**Bold** and _Italic_ and `Code` text
+### [IROS2019 Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
 
-[Link](url) and ![Image](src)
-```
+### [IROS2020 Service Robot Track](https://rpal.cse.usf.edu/competition_iros2020/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Competitions
-
-[1] [IROS2019 Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
-
-[2] [Logistics Track]
-
-### Publications
+## Publications
 
 [1] [UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement](https://ieeexplore.ieee.org/abstract/document/9561051) 
 
