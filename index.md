@@ -2,8 +2,8 @@
 • Research Directions: Computer vision and deep learning    
 • programming language： python and java  
 • E-mail: chujian9517@163.com or quyangyang@google.com  
-• Google Scholar: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=JzRU1eEAAAAJ)  
-• Github: [Github](https://github.com/nameCody)
+• Google Scholar: [Google Scholar Link](https://scholar.google.com/citations?hl=zh-CN&user=JzRU1eEAAAAJ)  
+• Github: [Github Link](https://github.com/nameCody)
 ## Experience
 
 ### China University of Petroleum    
