@@ -35,8 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Publications
 
 [1] [UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement](https://ieeexplore.ieee.org/abstract/document/9561051) 
+
 [2] [LEUGAN: Low-Light Image Enhancement by Unsupervised Generative Attentional Networks](https://arxiv.org/abs/2012.13322)
+
 [3] [Low Illumination Enhancement for Object Detection in Self-Driving](https://ieeexplore.ieee.org/abstract/document/8961471)
+
 [4] [Low Light Enhancement by Unsupervised Network*](https://ieeexplore.ieee.org/abstract/document/9303267)
+
 [5] [Visual SLAM Based on Geometric Cluster Matching](https://ieeexplore.ieee.org/abstract/document/9044135)
+
 [6] [Depth Map Inpainting Using a Fully Convolutional Network] (https://ieeexplore.ieee.org/abstract/document/8961820)
