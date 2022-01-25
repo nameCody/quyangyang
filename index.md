@@ -7,18 +7,15 @@
 # Experience
 
 ### China University of Petroleum    
-• 2014.09 - 2018.06  
-• B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management.   
+• B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management.(2014.09 - 2018.06)
 • Third class scholarship, Outstanding student leader.    
 
 ### University of Chinese Academy of Sciences   
-• 2018.09 - 2021.06     
-• M.S. in Computer Science and Engineering.   
+• M.S. in Computer Science and Engineering(2018.09 - 2021.06).   
 • President of Student Union, Excellent Communist Youth League of Shenzhen.  
 
 ### HUAWEI 
-• 2021.08 - now  
-• Engineer in Huawei Cloud    
+• Engineer in Huawei Cloud(2021.08 - now).    
 • Develop tools to automate the compilation, packaging, deployment, and release of software development.  
 
 # Competitions  
