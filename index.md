@@ -21,15 +21,17 @@
 • Engineer in Huawei Cloud    
 • Develop tools to automate the compilation, packaging, deployment, and release of software development.  
 
-
-# Competitions
-
-• [2019 IROS Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
-
-• [2020 IROS Service Robot Track](https://rpal.cse.usf.edu/competition_iros2020/)
-
+# Competitions  
 • [2020 Word Robot Contest](http://2018.worldrobotconference.com/html/jiqirendasai/chengji/2020/)
-
+  Won the first prize in the competition.
+  Responsible for the robot's task of pouring small balls into narrow-mouthed bottles to provide the robot with bottle-mouth position information.  
+• [2020 IROS Track Robot Track](https://rpal.cse.usf.edu/competition_iros2020/)  
+  Won the third prize in the competition.  
+  Provides coordinate information for robots to grasp objects on desktops, and combines YOLO V3 with traditional visual positioning methods.   
+• [2019 IROS Service Robot Track](https://rpal.cse.usf.edu/competition_iros2019/)
+  Won the third prize in the competition.  
+  In charge of the robot's ability to identify the depth and position of the object when it's grabbing the object in the basket.  
+ 
 # Publications
 
 [1]  **Yangyang Qu**, Kai Chen, Chao Liu and Yongsheng Ou, "[UMLE: Unsupervised Multi-discriminator Network for Low Light Enhancement](https://ieeexplore.ieee.org/abstract/document/9561051)," in 2021 IEEE International Conference on Robotics and Automation (ICRA), 4318-4324.   
