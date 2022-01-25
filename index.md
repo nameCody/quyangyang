@@ -6,11 +6,11 @@
 • Github: [Github Link](https://github.com/nameCody)
 # Experience
 
-### China University of Petroleum（http://english.upc.edu.cn/）      
+### China University of Petroleum(http://english.upc.edu.cn/)      
 • B.S. in Dual Bachelor’s Degree in the Internet of Things Engineering and Engineering Management. (2014.09 - 2018.06)  
 • Third class scholarship, Outstanding student leader.    
 
-### University of Chinese Academy of Sciences（https://english.ucas.ac.cn/）   
+### University of Chinese Academy of Sciences(https://english.ucas.ac.cn/)   
 • M.S. in Computer Science and Engineering. (2018.09 - 2021.06)    
 • President of Student Union, Excellent Communist Youth League of Shenzhen.  
 
