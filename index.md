@@ -20,7 +20,7 @@
 
 # Competitions  
 ### [2020 Word Robot Contest](http://2018.worldrobotconference.com/html/jiqirendasai/chengji/2020/)  
-• Won the first prize in the competition.
+• Won the first prize in the competition.  
 • Responsible for the robot's task of pouring small balls into narrow-mouthed bottles to provide the robot with bottle-mouth position information.  
 ### [2020 IROS Track Robot Track](https://rpal.cse.usf.edu/competition_iros2020/)  
 • Won the third prize in the competition.  
